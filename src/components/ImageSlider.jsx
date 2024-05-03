@@ -20,6 +20,10 @@ const ImageSlider = () => {
             url:'https://images.unsplash.com/photo-1608219992759-8d74ed8d76eb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhc3RhfGVufDB8fDB8fHww',
             title: 'pasta',
         },
+        {
+            url:'https://images.unsplash.com/photo-1522933001375-72d29575cf05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmVhY2glMjBmb29kfGVufDB8fDB8fHww',
+            title: 'nachos',
+        },
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0)
