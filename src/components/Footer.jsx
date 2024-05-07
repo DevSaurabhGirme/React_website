@@ -56,7 +56,7 @@ const Footer = () => {
                 </div>
             </div>
             <div  className="flexflex-col max-w-[1400px] px-2 py-4 mx-auto justify-between sm:flex-row text-center text-gray-500">
-                <p className="py-4">2024 Experiences, LLC. All rights reserved</p>
+                <p className="py-4">2024 Horizon Journeys, LLC. All rights reserved</p>
                 <div className="flex justify-between sm:w-[500px] pt-4 text-2xl">
                     <FaFacebook />
                     <FaInstagram />
