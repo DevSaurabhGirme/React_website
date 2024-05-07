@@ -15,7 +15,7 @@ const Plan =() => {
             <div className="flex flex-col h-full justify-center">
                 <h3 className="text-sxl md:text-6xl font-bold">Plan Your Next Trip</h3>
                 <p className="text-2xl py-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p className="pb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <p className="pb-6">Embark on your next adventure with our expertly crafted travel plans! Whether you crave the sun-kissed beaches of Bali, the majestic peaks of the Swiss Alps, or the vibrant streets of Tokyo, we have the perfect itinerary waiting for you. Let us tailor-make your dream getaway, ensuring every moment is filled with unforgettable experiences. From luxury escapes to budget-friendly journeys, trust us to plan your next trip with precision and passion.</p>
             <div>
                 <button className="border-black mr-4 hover:shadow-xl">Learn More</button>
                 <button className="bg-black text-white hover:shadow-xl">Book your trip</button>
